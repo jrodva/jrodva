@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently looking for new challenges.
 - 🌱 I’m currently learning about Swift.
-- 📝 You can take a look at my resume [here](https://drive.google.com/file/d/1q-ZJ7XCkdxpK4HJFcc5OnQEiFIJg-mLB/view?usp=sharing).
+- 📝 You can take a look at my resume [here](https://drive.google.com/file/d/13dciafMQNtCf596GiLtIvJxxUEO4AND8/view?usp=sharing).
