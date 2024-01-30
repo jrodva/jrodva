@@ -4,6 +4,8 @@
 
 [![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jrodva&count_private=true&theme=radical)](https://github.com/jrodva)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrodva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently looking for new challenges.
-- 🌱 I’m currently learning about Swift.
+- 🌱 I’m currently learning about Microfrontends.
 - 📝 You can take a look at my resume [here](https://drive.google.com/file/d/13dciafMQNtCf596GiLtIvJxxUEO4AND8/view?usp=sharing).
