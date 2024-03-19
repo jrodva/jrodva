@@ -8,4 +8,4 @@
 
 - 🔭 I’m currently looking for new challenges.
 - 🌱 I’m currently learning about Microfrontends.
-- 📝 You can take a look at my resume [here](https://drive.google.com/file/d/14luOjBWnoWNf5JKcmVUsVcn8tKa-N1z9/view?usp=sharing).
+- 📝 You can take a look at my resume [here](https://drive.google.com/file/d/1WnM93SHeGEFLj6BBF_f25Ib_VAi0hysX/view?usp=sharing).
